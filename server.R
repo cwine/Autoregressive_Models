@@ -5,7 +5,7 @@ library(shiny)
 
 
 
-# Define server logic required to draw a histogram
+# Define server logic
 server <- function(input, output) {
    
   #create the plot output 
